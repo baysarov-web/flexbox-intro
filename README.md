@@ -1,4 +1,4 @@
-![3](https://github.com/baysarov-web/flexbox-intro/assets/155926464/9cd64bbd-b80b-4266-af62-3fc8cca5da89)![2](https://github.com/baysarov-web/flexbox-intro/assets/155926464/95bdb613-acc0-47aa-bcac-5d4bf0290bf5)![1](https://github.com/baysarov-web/flexbox-intro/assets/155926464/a136fab3-ee2f-4381-90e8-40f2671d434a)# Task: разобраться с основами флексбокс
+Task: разобраться с основами флексбокс
 
 ## Постановка задачи
 
